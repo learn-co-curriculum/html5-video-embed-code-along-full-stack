@@ -6,7 +6,7 @@
 
 ## Introduction
 
-In this exercise you will code along with the video to review the HTML fundamentals you were introduced to in the previous lessons.
+Building upon previous code alongs, in this exercise you will create an HTML5 video player by coding along with the video provided, reviewing the concepts you were introduced to in the previous lessons.
 
 ## Instructions
 
