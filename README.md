@@ -82,8 +82,10 @@ Save the file and preview in your browser the video should appear looking someth
   Your browser does not support HTML5 video. <a href="http://browsehappy.com/?locale=en" target="_blank">Please upgrade your browser</a>.
 </video>
 
-...
+Looks good! Now we are ready to stage and commit our changes. Back in Terminal type `git add .` and press return. Then type 'git commit -m "add promo video to about page"' and press return. The push up your feature branch by typing `git push origin -u promo-media` and press return. Since we want to keep our work we can add it to our master branch. Type `git checkout master` and press return. Then type `git merge promo-media` and press return. Then push up the master branch by typing `git push origin master` and press return. Woot! all done.
 
-After you finish, make sure you <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run. Then, type `learn` command from Terminal to run local tests.
+After you finish, make sure you <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run. Then, type `learn` command from Terminal to run local tests (Mac) or type `learn-test` for Windows.
+
+After all tests are passing submit a pull request on Github and move on to the next lesson!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html5-video-embed-code-along' title='HTML5 Video Embed Code-Along'>HTML5 Video Embed Code-Along</a> on Learn.co and start learning to code for free.</p>
