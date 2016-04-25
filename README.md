@@ -15,7 +15,7 @@ In this exercise you will code along with the video to review the HTML fundament
 - Then change directory into the repository folder.
 - Code along with the provided video below and/or its supplementary reading located below the video. Code everything you see there. Feel free to stop, pause, rewind or fast forward through the content to keep pace.
 
-*Note: In the video below at one point I will download source videos from [http://archive.org](http://archive.org), you can instead download the videos directly from the links provided below the video in the instructions (to save time) instead. After downloading the videos from the direct links below, you will need to move them into a videos folder within this exercise, then you can skip to 4:30:00 in the video. This will also save you some time. The full instructions for moving the videos to the correct folder is listed below in the written instructions if you get stuck. Good luck!*
+*Note: In the video below at one point I will download source videos from [http://archive.org](http://archive.org), you can instead download the videos directly from the links provided below the video (to save time) instead. After downloading the videos from the direct links below, you will need to move them into a videos folder within this exercise, then you can skip to 4:30:00 in the video. This will also save you some time. The full instructions for moving the videos to the correct folder is listed below in the written instructions if you get stuck. Good luck!*
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/ymUxDt_mOxU?rel=0" frameborder="0" allowfullscreen></iframe>
 
